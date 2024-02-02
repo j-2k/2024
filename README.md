@@ -13,3 +13,11 @@ Importance is the only thing in order ranging from high, mid, & low.
 
 ### Low
 - ...
+
+## 2023 Notes
+### Some important notes done during 2023 or the first month of 2024
+- Real-Time Raytracer
+- Software Rasterizer
+- Shell Texturing
+- Many Random Shaders done in the 2023 Shader Showcase Project
+- Shadertoy magic
