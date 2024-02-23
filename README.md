@@ -1,3 +1,6 @@
+# moved to the repo below
+https://github.com/j-2k/2024-Notes
+
 # 2024
 
 2023, was relatively successful, but I don't remember everything I did, so this time I will try tracking the main things I want to do for 2024. List isn't based on any order, but I must complete all prerequisites before tackling a topic.  
