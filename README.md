@@ -1,5 +1,4 @@
-# moved to the repo below
-https://github.com/j-2k/2024-Notes
+archived since i moved this to a priv notes repo
 
 # 2024
 
